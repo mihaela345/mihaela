@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> mihaela </title>
+<title> text </title>
 </head>
 <body bgcolor="yellow">
 <body text="black">

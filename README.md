@@ -17,7 +17,7 @@ Limba engleza si italiana in curs de invatatre </td></tr>
 <dl> <dt> Curs <dd> Expunere, predare a unei materii de studiu sub forma unui ciclu de lectii sau de prelegeri.</dl> <br>
 <Font face="Times New Roman" size="5" color="brown">
 Tipuri de cursuri:
-</font>
+
 <Font face="Colibri" size="5" >
 <body text ="red">
 <ul type="circle">
@@ -27,8 +27,8 @@ Tipuri de cursuri:
 <li> utilizator de calculatoare 
 <li> fotograf 
 <li> limbi straine (limba engleza;limba franceza;limba germana etc)
-</ul>
-</font>
+
+  
 <body>
 <body bgcolor="yellow">
 <dl> 
@@ -46,5 +46,5 @@ videoclipuri, materiale de învățare și alte resurse pentru predarea și înv
 </table>
 <img src="../html.nou/mulu.html.gif">  succes!
 </body>
-</body>
-</html>
+
+
